@@ -22,11 +22,13 @@ DevOps Engineer and Full-Stack Developer passionné par l'infrastructure as code
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 
-## GitHub Stats
+## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SvenAthSDV&show_icons=true&theme=dark&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SvenAthSDV&theme=dark&hide_border=true)](https://github.com/SvenAthSDV)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SvenAthSDV&layout=compact&theme=dark&hide_border=true)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=SvenAthSDV&theme=darkhub&no-frame=true&row=1&column=7)](https://github.com/SvenAthSDV)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SvenAthSDV&theme=github-dark&hide_border=true)](https://github.com/SvenAthSDV)
 
 ## Contact
 
