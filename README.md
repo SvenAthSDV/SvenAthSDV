@@ -24,7 +24,7 @@ Technophile passionné par l'automatisation et le Cloud Computing. J'aime constr
     <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="40" height="40" alt="Terraform" /> </a>
     <a href="https://www.rundeck.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/rundeck/EA1D2C" width="40" height="40" alt="Rundeck" /> </a>
     <a href="https://www.vaultproject.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vault/000000" width="40" height="40" alt="Vault" /> </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/amazonwebservices/232F3E" width="40" height="40" alt="AWS" /> </a>
-    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/azure/0078D4" width="40" height="40" alt="Azure" /> </a>
+    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="40" height="40" alt="AWS" /> </a>
+    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="40" height="40" alt="Azure" /> </a>
 </p>
 
