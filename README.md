@@ -11,7 +11,6 @@ Technophile passionné par l'automatisation et le Cloud Computing. J'aime constr
 * ⚡ Specialized in **Ansible**, **Python**, **IaaS** & **CI/CD**
 * 👯 I’m looking to collaborate on **Open Source DevOps projects**
 * 💬 Ask me about **Ansible, Terraform, Kubernetes, Vault**
-* 📫 How to reach me: [GitHub](https://github.com/SvenAthSDV)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
