@@ -20,10 +20,10 @@ Technophile passionné par l'automatisation et le Cloud Computing. J'aime constr
     <a href="https://go.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="40" height="40" alt="Go" /> </a>
     <a href="https://www.ansible.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ansible/EE0000" width="40" height="40" alt="Ansible" /> </a>
     <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" /> </a>
-    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="40" height="40" alt="Kubernetes" /> </a>
-    <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/terraform/7B42BC" width="40" height="40" alt="Terraform" /> </a>
-    <a href="https://www.rundeck.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/rundeck/EA1D2C" width="40" height="40" alt="Rundeck" /> </a>
-    <a href="https://www.vaultproject.io" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/vault/000000" width="40" height="40" alt="Vault" /> </a>
+    <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="40" height="40" alt="Kubernetes" /> </a>
+    <a href="https://www.terraform.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="40" height="40" alt="Terraform" /> </a>
+    <a href="https://www.rundeck.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rundeck-colored.svg" width="40" height="40" alt="Rundeck" /> </a>
+    <a href="https://www.vaultproject.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vault-colored.svg" width="40" height="40" alt="Vault" /> </a>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="40" height="40" alt="AWS" /> </a>
     <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="40" height="40" alt="Azure" /> </a>
 </p>
