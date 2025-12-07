@@ -1,7 +1,7 @@
 
 # Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px"> I'm Sven
 ----------------------------------------------------------------------------------------------------------------
-DevOps Engineer @ [Numih France](https://numih.fr) | Student @ [École Sup de Vinci](https://www.supdevinci.fr)
+DevOps Engineer @ [Numih France](https://numihfrance.fr/) | Student @ [École Sup de Vinci](https://www.supdevinci.fr)
 ------------------------------------------------------------------------------------------------------------
 
 Technophile passionné par l'automatisation et le Cloud Computing. J'aime construire des infrastructures robustes et évolutives.
@@ -28,22 +28,3 @@ Technophile passionné par l'automatisation et le Cloud Computing. J'aime constr
     <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/microsoftazure/0078D4" width="40" height="40" alt="Azure" /> </a>
 </p>
 
-<h3 align="left">GitHub Stats:</h3>
-
-<p align="left">
-<a href="https://github.com/SvenAthSDV">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SvenAthSDV&theme=dark&hide_border=true" alt="GitHub Streak" />
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/SvenAthSDV">
-  <img src="https://github-profile-trophy.vercel.app/?username=SvenAthSDV&theme=darkhub&no-frame=true&row=1&column=7" alt="Trophy" />
-</a>
-</p>
-
-<p align="left">
-<a href="https://github.com/SvenAthSDV">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SvenAthSDV&theme=github-dark&hide_border=true" alt="Activity Graph" />
-</a>
-</p>
